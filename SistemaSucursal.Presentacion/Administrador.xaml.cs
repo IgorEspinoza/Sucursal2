@@ -58,6 +58,7 @@ namespace SistemaSucursal.Presentacion
             listaview.ItemsSource = tabla.DefaultView;
 
             conexion.Close();
+            // hola 
 
         }
 
